@@ -9,3 +9,8 @@ This extension will help you:
 - Make your transfers easier and feel confident that you won't accidentally violate the 1PPT rule
   
 Currently work with the 2022/2023 season.
+
+## Screenshots
+![Highlight invalid players in your squad](/screenshots/highlight.png "Highlight invalid players in your squad")
+
+![1PPT Team Checker](/screenshots/checker.png "1PPT Team Checker")
