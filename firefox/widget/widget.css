@@ -1,0 +1,115 @@
+/* Original style for sidebar widget */
+.iVfoDK {
+	box-sizing: border-box;
+	margin: 0px;
+	min-width: 0px;
+	padding-bottom: 2rem;
+}
+
+.cajGbN {
+	display: flex;
+	-moz-box-align: center;
+	align-items: center;
+	-moz-box-pack: justify;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.klPisa {
+	padding-top: 1rem;
+	padding-right: 1rem;
+	padding-left: 1rem;
+}
+
+.UIjIk {
+	flex: 1 1 0%;
+	margin: 1.5rem 0px;
+	padding: 0px 1rem;
+	font-family: "PremierSans-Bold", Arial, "Helvetica Neue", Helvetica, "sans-seriff";
+	font-size: 1.7rem;
+}
+
+/* Original style for purple button */
+.eTqCza {
+	display: block;
+	padding-top: 1.5rem;
+	padding-bottom: 1.5rem;
+	border: 0px none;
+	border-radius: 3px;
+	font-family: "PremierSans-Bold", Arial, "Helvetica Neue", Helvetica, "sans-seriff";
+	font-size: 1.2rem;
+	cursor: pointer;
+	background: rgb(150, 60, 255) none repeat scroll 0% 0%;
+	color: white;
+	box-shadow: rgba(0, 0, 0, 0.06) 0px 1px 8px 0px;
+}
+
+/* Style for inside element of 1PPT widget*/
+.hidden {
+	display: none;
+}
+
+.valid img, .invalid img {
+	display: block;
+	margin: auto;
+	margin-bottom: 1rem;
+}
+
+#checker-body {
+	margin-bottom: 1rem;
+}
+
+.checking-result {
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 1rem;
+}
+
+.error-intro {
+	margin-bottom: 1rem;
+}
+
+.invalid-club {
+	margin-bottom: 1rem;
+}
+
+.invalid-club:hover {
+	background-color: rgba(0, 0, 0, 0.1);
+	cursor: pointer;
+}
+
+.invalid-club li {
+	margin-left: 40px;
+}
+
+.invalid-detail ul {
+	/*margin-top: 5px;*/
+}
+
+.invalid-detail li {
+	margin-bottom: 0px;
+	margin-left: 40px;
+	list-style: circle;
+}
+
+/* Additional style for check button */
+
+#check-button {
+	width: 100%;
+	margin-top: 1.5rem;
+	font-size: 1.5rem;
+	margin-bottom: 1.5rem;
+}
+
+#check-button:hover {
+	background-color: rgb(122, 15, 247);
+}
+
+/* Gray out unavailable-to-pick players on "Player Selection" widget  */
+.grayed-out-player {
+	background-color: rgba(0, 0, 0, 0.08);
+}
+
+.grayed-out-player td, .grayed-out-player button {
+	color: rgba(0, 0, 0, 0.6);
+}
